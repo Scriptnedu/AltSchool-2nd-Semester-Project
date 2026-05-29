@@ -74,7 +74,7 @@ This project digs into a 250,000-record salary dataset to answer all three, usin
 - Key observation: right-skewed salary distribution (mean > median), suggesting high earners at the top
 
 
-### 2. 🔧 Data Wrangling & Feature Engineering
+### 2. Data Wrangling & Feature Engineering
 
 **Subsetting:** Narrowed focus to 4 Data/AI roles — *Data Analyst, Data Scientist, Machine Learning Engineer, AI Engineer*
 
